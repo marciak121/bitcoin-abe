@@ -6,7 +6,7 @@ New in 0.8 - ????
 * Fix bug during upgrade to schema Abe30: add_keep_scriptsig.
 
 * Fix bug affecting /rawtx.
-
+*add sunset and error checker
 * Add /unspent/ADDR|ADDR|... similar to blockchain.info/unspent?address=...
 
 * Add support for MySQL binary types (also became default on newly-created databases).
@@ -227,3 +227,4 @@ Major changes from 0.3 to 0.4 (2011-07-04 to 2011-07-15)
   BBE-compatible APIs.
 
 * Several small fixes and speedups.
+
